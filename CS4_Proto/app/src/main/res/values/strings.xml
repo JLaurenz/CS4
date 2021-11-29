@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CS4_Proto1</string>
+    <!-- Strings related to login -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="or">OR</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="information">INFORMATION</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="company_name_optional">Company Name (OPTIONAL)</string>
+    <string name="company_code_optional">Company Code (OPTIONAL)</string>
+    <string name="next">NEXT</string>
+    <string name="ed">!!! Please Fill all the important details first !!!</string>
+    <string name="verification">VERIFICATION</string>
+    <string name="verify_otp">Verify Phone Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="terms_and_condition">TERMS AND CONDITION</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
