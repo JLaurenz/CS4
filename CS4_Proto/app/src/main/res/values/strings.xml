@@ -21,4 +21,6 @@
     <string name="phone_number">Phone Number</string>
     <string name="terms_and_condition">TERMS AND CONDITION</string>
     <string name="confirm_password">Confirm Password</string>
+    <string name="title_activity_rider_location">RiderLocation</string>
+    <string name="title_activity_map_location">MapLocation</string>
 </resources>
